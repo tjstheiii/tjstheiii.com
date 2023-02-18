@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setup NaviLink on NPE-240S2
+title: Setup NaviLink on NPE240S2
 description: I could not find it in the manual they included, so this is what I found online.
 image: assets/images/pic06.jpg
 tags: IT Documentation Fun HomeAssistant
